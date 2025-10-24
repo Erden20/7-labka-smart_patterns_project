@@ -1,0 +1,1 @@
+# 7-labka-smart_patterns_project
